@@ -5,7 +5,7 @@ The Ronny Rubbish Maze Problem is a Python program that solves a maze-like probl
 
 The program consists of two main files:
 
-1. AssignmentFinal.py: This file contains the implementation of the A* search algorithm, the main logic for navigating the maze and the execution of the program.
+1. AStarSearch.py: This file contains the implementation of the A* search algorithm, the main logic for navigating the maze and the execution of the program.
 
 2. gui.py: This file contains the GUI implementation using the Tkinter library. It visualizes the hexagonal grid and animates the movement of the rubbish collector along the optimal path.
 
@@ -20,7 +20,7 @@ To run the program, follow these steps:
 
 1. Put the both python script files AssignmentFinal.py and gui.py in the same folder.
 
-2. Run AssignmentFinal.py script.
+2. Run AStarSearch.py script.
 
 ## Usage
 Upon running the program, it will solve the Ronny Rubbish Maze Problem and display the optimal path for collecting the rubbish nodes. The GUI window will open, showing the hexagonal grid and animating the movement of the rubbish collector along the path.
